@@ -1,0 +1,5440 @@
+{
+    "filterCategoryType": {
+        "code": "SKILL",
+        "description": "Skill",
+        "__typename": "RoleSearchFilterCategoryTypeGraphQlDTO"
+    },
+    "filters": [
+        {
+            "filter": ".NET",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "4GL- Fourth Generation Language",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "5G",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Abend-Aid",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Accounting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Accounts Payable (A-P)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Accounts Receivable (A-R)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ACF2",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Active Directory",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ActiveX",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ADABAS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Adaptive Software Development",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ADF (Application Development Framework)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Adobe Acrobat Professional",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Adobe Designer",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Adobe Flash",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Agile Development",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Agile Manifesto",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Agile Methodologies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Agile Modeling",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Agile Project Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Agile Unified Process",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "AI Bias Mitigation",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "AIX",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Angular",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Ansible",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Anti-Money Laundering Information System (AMLIS)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Anti-Money Laundering Policies and Procedures",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Anti-Virus Software",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Apache Hadoop",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Apex",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Delivery Process",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Design, Architecture",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Development (Client/Server)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Development (Mainframe)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Development (Object-Oriented)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Development (Web)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Development Consulting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Development Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Localization and Internationalization",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Maintenance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Modernization",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Programming Interfaces (API's)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Security",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Application Testing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Architecture Modeling",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Ariba",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Artificial Intelligence",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Artificial Intelligence (AI) Governance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "AS/400",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ASP",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ASP.Net",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Assembler",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Asset and Liability Management (ALM)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Asset-based Lending",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ATM",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ATM (TBF)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ATM Services",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Audit and Compliance Function",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Auditing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Autotester",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Availability Management - HTS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "AWS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "BaanERP",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Bank Account Features and Services",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Banking Products",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Banking Products and Services Development",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Banking Strategy Management (BSM)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Bankruptcy Account Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Bankruptcy Laws and Regulations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Bankruptcy Liquidation",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Bankruptcy Plan Review and Negotiation",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Basic",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "BEA WebLogic",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Bend-Aid",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Benefits Programs",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Big Data Computing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Big Data Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Big Data Management and Analytics",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Biometrics",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "BladeLogic Server Automation Suite",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Blockchain",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "BMC Image Copy Plus",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "BMC IMS Backup and Recovery",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Bond Trading",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Branch Banking Services",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Branch Banking Systems",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Branch Platform",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Brio",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Budget Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Business Architecture",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Business Assessment",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Business Data Analysis",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Business Process Modeling",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Business Social Computing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "C",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "C for AIX",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "C#",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "C++",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "CA/DB2 Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "CA-Easytrieve",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "CA-IDMS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Call Center Technologies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Campus Recruiting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Candidate Screening",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Candidate Sourcing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Capability Maturity Model (CMMI)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Capacity Planning & Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Card Operations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "CARD SERVICES",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Card Services Systems",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Carding",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "CASE Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cash Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cash Management Services",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Centra Software",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "CGI Script",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Change Control",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Chatbots",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Check Processing Operations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Chef",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "CI/CD Pipeline",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "CICS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cisco Networking Products",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Claim Investigation - GCF",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Client/Server Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Climate Assessment and Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cloud Backup",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cloud Computing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cloud Computing Architecture",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cloud Database",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cloud Migration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cloud Native",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cloud Network",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cloud Platform",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cloud Resource Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cloud Security",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cloud Storage",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cluster Systems Management (CSM) Software",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "COBOL",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "COBOL 390/LE",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "COBOL/400",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cognitive Computing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "COGNOS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cognos Business Intelligence (BI) Product Suite",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cognos Framework Manager",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cognos Report Studio",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cold Fusion",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Collateral Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Collection Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Collections",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Commercial Loan Review",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Commercial Loans",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Commercial Real Estate Lending",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Commodities Trading",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Common Object Request Broker Architecture (CORBA)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Community Relations Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Compensation Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Computer Crime",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Computer Forensics",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Computer Graphics",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Computer Hardware Industry",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Computer Network Defense",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Computer Operations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Computer Services Industry",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Computer Software Industry",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Computer Systems Industry",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Computer Telephony Integration (CTI)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Computer Vision",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Computer-Based Customer Support Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Confidential Investigations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Configuration Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Consumer Loans",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Container",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Content Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Content Strategy Development",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Contingency and Disaster Recovery",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Continuous Auditing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Corel Graphics Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Corporate Card",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Corporate Ethics",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Corticon Studio",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cost Accounting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cost-Benefit Analysis",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Credit Analysis and Verification",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Credit Card",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "CRM Technologies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Crystal Methods",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Crystal Reports",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "CSS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Customer Disputes (Finance)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Customer Interaction",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Customer Relationship Management Applications",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Customer Support Architecture",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Customer Support Function",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Customer Support Operations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Customer Support Policies, Standards and Procedures",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Customer Support Service Agreements",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Customer Support Systems",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Customer Support: Trends and Directions",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Cybersecurity Risk Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Analysis - Software",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Architecture",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Center Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Center Automation (Robotics)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Center Facilities Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Gathering and Reporting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Governance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Integrity",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Mining",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Movement Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Networks",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Privacy",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Science",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Visualization",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Warehouse Programming",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Data Warehousing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Database Backup and Migration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Database Design (Physical)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Database Development Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Database Management System",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Database Structures",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DataJoiner",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DB2",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DB2 Administration Tool",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DB2 Connect",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DB2 Development Center",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Deal Sourcing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Debit Card",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DECNet",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Deep Learning",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Delphi",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Demand Deposit Products",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Derivatives",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Design Thinking",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DevOps",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DevOps Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DevSecOps",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DevSecOps Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DFHSM",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DHTML",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Digital Forensic Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Digital Payment",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Digital Threat Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Digital Transformation",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Director",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Directory Services Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Disruptive Innovation",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Diversity Recruiting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Docker",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Doc-To-Help",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Document Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Document Storage and Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Documentation Architecture and Design",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Documentation Content Development",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Documentation Publishing (Electronic)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Documentation Publishing (Paper)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DOS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "DreamWeaver",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Due Diligence Investigation",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Eclipse",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "E-Commerce Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Edge Computing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Electronic Banking Products",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Electronic Data Interchange (EDI) Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "E-mail Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "E-mail Routing and Response Software",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Emerging Technologies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Employee Assistance Programs (EAP)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Employee Counseling",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Employee Relations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Employee Relocation and Expatriate Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Encryption Technologies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Endevor",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Endpoint Security",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Enterprise Analysis",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Enterprise Architecture (EA)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Enterprise IT Architecture",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Enterprise JavaBeans",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Equipment Financing and Leasing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Equipment Servicing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Equity-Based Pay Programs",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ERP (Enterprise Resource Planning)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ERP Implementation",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ERwin",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Essbase",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Estate Planning",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Ethernet",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ETI-Extract/ETI Solution",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ETL Process",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Exchange Server",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Executive Benefits Programs",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Extreme Programming",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Extreme Programming (XP)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "F5 Networks",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Fast Dump Restore (FDR)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Fiduciary Responsibilities",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "File-Aid",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "FileNet",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "FileNet Image Services",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "FileNet P8",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Analysis",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial and Accounting Systems",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Engineering",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Forecasting and Modeling",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Instruments",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Laws and Regulations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Markets",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Process Documentation",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Record Keeping",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Reporting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Risk Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Risk Modeling",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Services Applications",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Services Industry",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Statement Analysis",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Financial Structuring",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Fintech",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Firewall Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "FOCUS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Foreign Exchange (FX)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Foresight Financials",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Fortran",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Fraud Detection and Prevention",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Fraud Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "FrontPage",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Fund Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Fund Performance Analysis",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Futures",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Game Development",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Game Engines",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "General Data Protection Regulation (GDPR)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "General Ledger (G-L)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "General Parallel File System (GPFS)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Generally Accepted Accounting Principles (GAAP)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Git",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Global Economic Analysis (GEA)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Google Cloud Platform (GCP)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Groupware Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Groupware/Collaborative Computing Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Guidewire Insurance Suite",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Handheld Hardware",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Hand-Held Portable Device Software",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Hardware Infrastructure",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Hardware Installation and Support",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Health-Medical Programs",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Hedge Funds",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Help Desk",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "High-Tech Recruiting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Hogan Umbrella",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "HP-UX",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "HR Legal and Regulatory Environment",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "HR: International Environment",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "HR: Policies, Standards and Procedures",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "HR: Trends and Direction",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "HTML",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Human Computer Interface (HCI) Design",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Human Resource Management Application",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Human Resources Consulting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Human Resources Information Systems Operations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Human Resources Operations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Human Resources Planning and Development",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Human Resources Policies, Strategies and Environment",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Hybrid Cloud",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Hyperion",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Hypervisor",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IBM Application Performance Analyzer (APA)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IBM Debug Tool",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IBM Fault Analyzer",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IBM MVS JCL",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IBM Power Systems",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IBM Resource Measurement Facility (RMF)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IIS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Illustrator",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ImagePlus",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Imaging Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Implementation",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Impromptu",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IMS/DB",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IMS/TM",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Incentive Programs",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Informatica",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Informatica PowerCenter",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Informatics/Information Sciences",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Information Assurance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Information Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Information Security Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Information Security Architecture",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Information Security Audits",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Information Security Law",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Information Security Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Information Security Operation Center (ISOC)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Information Security Technologies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Information Technology (IT) Security Policies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Informix",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Infosphere",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Infrastructure as Code (IaC)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Ingres",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Initial Public Offering",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "InstallShield/InstallScript",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Institutional Finance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Interactive Voice Response Systems",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Interest Rate Risk (IRR) Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Internal Audit",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Internal Controls",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Internet Banking",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Internet of Things (IoT)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Internet of Things (IoT) Security",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Intrusion Detection and Prevention",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Accounting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Bank Quantitative Analysis",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Bank Research Analysis",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Banking Services",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Consulting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Credit Risk",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Operations Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Performance Measurement",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Reporting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Risk Data Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Risk Economics and Finance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Risk IT Systems",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Risk Management (IRM) Laws and Regulations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Risk Management Policies and Procedures",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investment Strategy",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investments",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Investments Systems Security",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ISO 9000-3",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ISPL (Information Services Procurement Library)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Architecture",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Architecture Consulting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Asset Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Audit and Control",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Availability Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Engagement Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Environment",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Governance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Incident Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Industry: Trends & Directions",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Management Consulting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Performance Consulting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Project Control and Reporting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Project Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Project Office/Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Project Planning and Organization",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Quality Assurance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Risk Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Service Change Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Service Continuity Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Service Design and Introduction",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Service Financial Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Service Improvement",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Service Level Agreements",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Service Management (ITSM)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Standards, Procedures & Policies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT Systems Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "IT: a Business Within a Business",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ITIL (Information Technology Infrastructure Library)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ITIL Application Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ITIL Service Delivery",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "J2EE",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "J2ME",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "JAD",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Java / Java 2 Standard Edition",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Java DataBase Connectivity (JDBC)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Java Servlets",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "JavaBeans",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "JavaScript",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "JD Edwards",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Jenkins",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "JES 3",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Jini",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "JProbe",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Jscript",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "JSP",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Juniper Networks",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Knowledge Graphs",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Knowledge of a Specific Customer Support Function",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Knowledge of a Specific Financial or Accounting System",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Knowledge of Anti-Money Laundering",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Knowledge of Investment Fund",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Knowledge of Loan Underwriting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Knowledge of Trusts",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Knowledge of Warranties",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Knowledge-based/AI Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Kubernetes",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "LAN Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Laplink",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Lending Processes and Standards",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Lending Products",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Letters of Credit",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Leveraged Buyout",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Leveraged Loan",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Lexis - Nexis",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Life Insurance Programs",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Linux",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Liquidity Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Liquidity Risk Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "LoadRunner",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Loan Origination",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Local Area Networks",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Localization and Internationalization",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Lockbox services",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Logical Data Modeling",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Lotus",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Lotus Domino Administration Tool",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Lotus Instant Messaging and Web Conferencing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Lotus Notes Development",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Machine Learning",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mainframe Development Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mainframe Hardware",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mainframe Operating Systems and Platforms",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mainframe Software and Utilities",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Managing Expenses and Finances",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Market Portfolio",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Market Risk",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mathematics of Financial Instruments",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mercury TestSuite",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mergers & Acquisitions (M&A) Operations Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Microservices",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Microsoft Access",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Microsoft Azure",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Microsoft BizTalk Server",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Microsoft Dynamics 365 - Finance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Microsoft Excel",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Microsoft Office",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Microsoft PowerPoint",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Microsoft Project",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Microsoft Windows Server",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Microsoft Word",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Middleware",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mid-Range Hardware",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mid-Range Software and Utilities",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mobile Application Testing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mobile Applications",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mobile Banking",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mobile Computing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mobile Device Operating Systems",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mobile Operating Systems and Platforms",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mobile Payment",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mobile Security",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mobile Social Applications",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Modeling: Data, Process, Events, Objects",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Modeling: Use Case",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "MongoDB",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mortgage Products",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Mozilla Firefox",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "MSMQ",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "MuleSoft",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Multicloud",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Multimedia Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Natural Language Processing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "NDS/eDirectory",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Network Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Network and Internet Security",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Network Architecture",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Network Operations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Network Performance Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Networking/Communications Hardware",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Networking/Communications Software",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Nexus 1000",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Nexus 5000/7000",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Non-Performing Loans (NPLs)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "NoSQL",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Novell Netware",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Object Concepts/Object Orientation",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Object Relational Database Systems (ORDMS)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Object-Oriented Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ODBC",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "OmegaMon",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Omnichannel",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Online Advertising",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Online Banking System Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Online Marketing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "On-line Transaction Processing Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Open Systems and Platforms",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Operating Systems & Environments",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Operational Risk",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Operations - Back Office",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "OpNet IT Guru",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Options",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ORACLE",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Oracle Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Oracle Application Server",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Oracle Applications Financial Module",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Oracle Cloud HCM",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Oracle Developer Suite",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Oracle Enterprise Performance Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Oracle Fusion",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Oracle Lite",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Order Processing - Financial Products",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Organizational Change Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Organizational Development Issues and Practices",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "OS/2 Warp",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "OS/390",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "OSI 7-layer model",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "OSPF",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Output Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Packaged Application Integration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Partnership Accounting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Payroll Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Payroll Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "PC Banking",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "PC/Workstation Hardware",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "PC/Workstation Software",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "PegaRULES",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Penetration Testing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "PeopleSoft",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Performance Measurement and Tuning",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Perl",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Photoshop",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "PHP",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "PL/I",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "PL/SQL",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Platform Architecture",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Platform as a Service (PaaS)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Platform Functions",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Portfolio Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "PowerBuilder",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Premises Management and Security",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Pricing Models and Analytics",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Private Banking Services",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Private Equity Fund",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Private Placement",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Problem Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Problem Management Process (TCS)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Product and Vendor Evaluation",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Production Control",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Programming",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Programming Languages",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Project Finance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Project Workbench",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Proof of Claim Filing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Prototyping",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "PVCS Version Manager",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Python",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "QMF (Query Management Facility)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Quantitative Techniques",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Quantum Computing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Query and Database Access Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "R",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "RAD (Rapid Application Delivery)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "RATIONAL",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Rational Rhapsody",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Rational Rose",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Rational Software Architect",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Rational Team Test",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Record Retention Policy",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Records Management and Archiving",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Red Hat",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Regulatory Environment - Financial Services",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Relational Databases",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Release Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Remittance Processing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Remote Computing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Remote/Mini Data Center Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Report Program Generator",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Repository Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Requirements Analysis",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Retail Banking Services",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Retail Lending",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Retirement Programs",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "REXX",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "RFP (Request for Proposal)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Risk & Control Self-Assessment (RCSA)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Risk Management Investment Banking",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Robotic Process Automation(RPA)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Root Cause Analysis",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Ruby on Rails",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Salary Planning",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Salesforce",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Salesforce Einstein",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Salesforce Lightning",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SAP Business Objects",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SAP CRM",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SAP ERP",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SAP FICO (Finance Accounting and Cost Controlling)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SAP FSCM (Financial Supply Chain Management)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SAP PLM",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SAP R/3",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SAP Success Factors",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Sarbanes-Oxley Compliance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SAS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Scripting Tools and Languages",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Scrum",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Secondary Market Analysis",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Securities (Finance)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Securities Laws and Regulations (SLR) Compliance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Securities Underwriting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Securitization",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Security as Code (SaC)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Security Information and Event Management (SIEM)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Self-Service and Virtual Call Centers",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Server Hardware",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Server Operating Systems and Platforms",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Server Software",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Serverless Computing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Service Oriented Architecture (SOA)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Service Oriented Architecture Technologies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Service Platform Operations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Service Request Management Process (TCS)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "ServiceNow",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Settlement (Finance)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SharePoint Servers",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Siebel",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SIP",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Site Reliability Engineering",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SiteMinder",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Six Sigma Framework",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Small Business Banking",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Small Business Financing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Small Business Loan Products",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Smalltalk",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SMTP",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SNA",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Sniffer",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Social Applications",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Social Community Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Social Media Marketing Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Social Media Solutions",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Social Network Architecture and Technologies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Social Network Services (SNS)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software as a Service (SaaS)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Change Request Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Delivery Channels",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Development",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Development Life Cycle",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Distribution",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Distribution and Delivery",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Engineering",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Field Support",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Installation and Support",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Integration Engineering",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Licensing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Packaging",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Problem Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Process Improvement (SPI)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Product Business Knowledge",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Product Design/Architecture",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Product Installation and Support",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Product Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Product Quality Assurance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Product Technical Knowledge",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Product Testing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Product Training",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software QA & Testing Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Quality Assurance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Quality Assurance and Testing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Release Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Reliability Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Security Assurance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Software Test Engineering",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Solaris",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Solution Architecture (SA)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Source Code Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Specific Benefits Plan Development",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Specific Human Resources Systems Application",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Speech Recognition Technologies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SPSS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SQL",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "SQL Server",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Staffing and Recruiting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Statement Rendering",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Statistical Analysis and Measurement",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Stock Funds",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Stock Market",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Stock Trading",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Storage Area Networks",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Storage Hardware",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Storage Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Stored-Value Card",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Strategic Enterprise Management Applications",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Stress Testing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Struts Framework",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Succession Planning",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Supplier Relationship Management Application",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Supply Chain Finance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Supply Chain Management Applications",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Swaps",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Sybase Adaptive Server",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Sybase Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "System and Console Operations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "System and Technology Integration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "System Development Life Cycle",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "System Testing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "System Testing Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "System zSeries",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Systems Programming",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Systems Software Infrastructure",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Talent Analytics",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Talent Assessment",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Talent Management - GCF",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Target Architecture",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Tax Deferred Products",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Tax Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Tax Operations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Tax Planning",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Tax Regulations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "TCP/IP",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Technical Analysis (Finance)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Technical Documentation Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Technical Troubleshooting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Technical Writing/Documentation",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Technology/IT Consulting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Telecom Industry",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Telecom Regulatory Environment",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Telecommunications",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Telephony-Based Customer Support Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Teller Functions",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Teller Station",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Test Automation",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Testing",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "The Open Group Architecture Framework (TOGAF)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Time Deposit Products",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Time-Off Programs",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "TIVOLI",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Tivoli Access Manager for e-Business (TAM)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Tivoli Management Environment",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Tivoli Maximo",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Tivoli NetView",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Tivoli Workload Scheduler for z/OS (TWSz)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Token Ring",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "TPNS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Trade Client Reporting",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Trade Finance",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Trade Processing Investment Banking",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Trade Support Cash Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Trading",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Training Delivery",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Training Process Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Training Program Development",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Transitional Architecture",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Transportation Management Applications",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Treasury Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Treasury Services",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Trust Operations Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "TSO/ISPF",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Uniface",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "UNIX",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "User Acceptance Testing (UAT)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "User Experience (UX) Research",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "User Experience Design",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "User Interface Design",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "User Operations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Valuation (Finance)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Vault Operations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "VBScript",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Venture Capital",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Virtual Private Networks (VPNs)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Virtual Reality and Augmented Reality",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Virtualization Tools & Technologies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Visio",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Visual Age for Java",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Visual Age Generator",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Visual Basic",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Visual Basic.Net",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Visual C++",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Visual Foxpro",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Visual Interdev",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Visual J++",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Visualforce",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Voice Networks",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "VoIP",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "VOIP Technologies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Vulnerabilities Assessment",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "WAP",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Warranty Claims Management and Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Wealth Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Web 2.0",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Web Administration",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Web Analytics",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Web Application Technology",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Web Development Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Web Services",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Web Services Tools",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Web Software Design",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Web Trends & Directions",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "WebSphere",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "WebSphere Application Server",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Websphere MQ Series",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "WebSphere Portal",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "WebSphere Studio",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "WebSphere Studio Application Developer",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Wholesale Banking Services",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Wide Area Networks",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Windows 2000/Me",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Windows 7",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Windows NT",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Windows XP",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Wire Transfer/Automated Clearing House (ACH)",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Wireless Technologies",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Workday Essentials",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Workday Financial Management",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Workday HCM",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Workflow Analysis",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Workforce Analytics",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Working with E-mail Routing and Response Software",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "X.25",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "XHTML",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "XML",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "XML Schema",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "XML Transformations",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "Xpediter",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        },
+        {
+            "filter": "z/OS",
+            "count": -1,
+            "subFilters": [],
+            "__typename": "SearchFilterGraphQlDTO"
+        }
+    ],
+    "__typename": "RoleSearchFilterResultGraphQlDTO"
+}
